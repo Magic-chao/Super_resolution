@@ -1,0 +1,5 @@
+# -r 5 fps设置为5帧/秒（不同位置有不同含义)
+# -i tmp/%%d.jpg 输入图片文件，图片文件为 1.jpg 2.jpg ….
+# -y 对输出文件进行覆盖
+# -i audio.mp3 输入的音频文件
+# -absf aac_adtstoasc 将结果的音频格式转为faac格式时需要这个选项。
